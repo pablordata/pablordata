@@ -31,6 +31,9 @@ Desde 2021, he trabajado en la industria tecnológica, destacando en roles de Bu
                <a style="text-decoration: none" target="_blank" href="https://github.com/features/copilot" >
                <img height="25" src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white">
                </a> 
+               <a style="text-decoration: none" target="_blank" href="https://gemini.google.com/app?hl=es" >
+               <img height="25" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
+               </a>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">💻 Lenguaje de Programación:</td>
