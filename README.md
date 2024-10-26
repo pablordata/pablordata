@@ -15,8 +15,7 @@
 <img width="140"src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
 </div>
 <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hola+Mundo!+👋;+Soy+Pablo+Rivera!;" />
-<h3>👨🏻‍💻 | Acerca de mí</h3> 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">       
+<h2>👨🏻‍💻 | Acerca de mí</h2>   
 Ingeniera de Software con más de 3 años de experiencia en el diseño y desarrollo de soluciones tecnológicas que buscan generar un impacto positivo en la vida de las personas 💡✨. Manejo lenguajes como SQL y Python, con capacidad para abordar tanto la programación de bajo como de alto nivel 🖥️📈. Soy una apasionada por la ingeniería de datos y la computación en la nube, particularmente en entornos AWS ☁️.
 
 Desde 2021, he trabajado en la industria tecnológica, destacando en roles de Business Intelligence y Developer SQL en algunas de las startups más importantes de Colombia 🇨🇴. Soy una persona analítica, autodidacta y siempre en búsqueda de nuevos retos 🔍💪, con el compromiso de liderar proyectos que verdaderamente marquen la diferencia y generen impacto 💼🌍.
