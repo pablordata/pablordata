@@ -1,15 +1,15 @@
 <div align="right">
 <a style="text-decoration: none" target="_blank"href="https://github.com/pablordata">
-<!--<img src="https://visitor-badge.laobi.icu/badge?page_id=pablordata.pablordata&left_color=gray&right_color=black&left_text=Coders%20visitors">-->
+<img width="125"src="https://komarev.com/ghpvc/?username=pablordata-pablordata&color=grey&style=for-the-badge">
 </a>
-<a style="text-decoration: none" target="_blank" href="https://twitter.com/codediazsergio" >
-<img width="62"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/sergio-diaz-fernandez/" >
-<img width="75"src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a style="text-decoration: none" target="_blank" href="https://mail.google.com/mail/u/0/?pli=1#inbox?compose=CllgCKCFTSvLFsSSRXXtlkcJfwqfndrBfrgdqQxTBBZlXQMqnTmzqNCJKlSCzPGDpcpswwSgllB" >
+<img width="75"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/sergio-diaz-fernandez/" >
-<img width="100"src="https://img.shields.io/badge/Perfil_Platzi-09e989?style=for-the-badge&logo=platzi&logoColor=white">
+<img width="95"src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/sergio-diaz-fernandez/" >
+<img width="120"src="https://img.shields.io/badge/Perfil_Platzi-09e989?style=for-the-badge&logo=platzi&logoColor=white">
 </a>
 </div>
 
