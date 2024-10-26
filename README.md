@@ -6,7 +6,7 @@
 <img width="75"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/pablordata/" >
-<img width="95"src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"href>
+<img width="95"src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a style="text-decoration: none" target="_blank" href="https://platzi.com/p/PabloRivera/" >
 <img width="120"src="https://img.shields.io/badge/Perfil_Platzi-09e989?style=for-the-badge&logo=platzi&logoColor=white">
@@ -25,8 +25,8 @@ Desde 2021, he trabajado en la industria tecnológica, destacando en roles de Bu
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">🤖 Inteligencias Artificiales:</td>
-        <td><a style="text-decoration: none" target="_blank" href="https://chatgpt.com/" ><img height="25" src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
-               <a style="text-decoration: none" target="_blank"https://github.com/features/copilot/" ><img height="25" src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>     
+        <td><a style="text-decoration: none" target="_blank" href="https://chatgpt.com/" ><img height="25" src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/></a> 
+               <a style="text-decoration: none" target="_blank"https://github.com/features/copilot/" ><img height="25" src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/></a>     
                <img height="25" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/></td>
     </tr>
     <tr>
