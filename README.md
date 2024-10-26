@@ -25,7 +25,9 @@ Desde 2021, he trabajado en la industria tecnológica, destacando en roles de Bu
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">🤖 Inteligencias Artificiales:</td>
-        <td><a style="text-decoration: none" target="_blank" href="https://platzi.com/p/PabloRivera/" ><img height="25" src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>     <img height="25" src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>     <img height="25" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/></td>
+        <td><a style="text-decoration: none" target="_blank" href="https://chatgpt.com/" ><img height="25" src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
+               <a style="text-decoration: none" target="_blank"https://github.com/features/copilot/" ><img height="25" src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>     
+               <img height="25" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">💻 Lenguaje de Programación:</td>
