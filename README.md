@@ -14,20 +14,14 @@
 <a style="text-decoration: none" target="_blank" href="https://buymeacoffee.com/pablordata" >
 <img width="140"src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
 </div>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hola+Mundo!+👋;+Soy+Pablo+Rivera!;" />
+<h2>📖 | About me</h2> 
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+Ingeniera de Software con más de 3 años de experiencia en el diseño y desarrollo de soluciones tecnológicas que buscan generar un impacto positivo en la vida de las personas 💡✨. Manejo lenguajes como SQL y Python, con capacidad para abordar tanto la programación de bajo como de alto nivel 🖥️📈. Soy una apasionada por la ingeniería de datos y la computación en la nube, particularmente en entornos AWS ☁️.
 
-### Hello 🌎, I'm Renato Resabala
+Desde 2021, he trabajado en la industria tecnológica, destacando en roles de Business Intelligence y Developer SQL en algunas de las startups más importantes de Colombia 🇨🇴. Soy una persona analítica, autodidacta y siempre en búsqueda de nuevos retos 🔍💪, con el compromiso de liderar proyectos que verdaderamente marquen la diferencia y generen impacto 💼🌍.
 
-With over 8 years of experience as a Software Engineer, I'm on a mission to create technology solutions that connect the digital world with real life! I have the power to develop in frontend, backend, which allows me to bring my magic to both revolutionary startups and giant enterprise projects. I'm passionate about writing clean, maintainable code and design with users in mind, thriving in environments that love innovation and continuous professional growth. Let's make technology shine! 🚀
-
-
-  - 🔭 I’m currently working on upgrading java applications from jdk 8 to 21.
-  - 🌱 I’m currently learning; Junit, Jakarta, Spring Security, Spring Cloud.
-  - 💬 Ask me about **Html, Css, Sass, Bootstrap, Javascript, Typescript, React,  PHP,  Lumen, Laravel,  C#, .NET, Java, Spring Boot, Scrum, Google Cloud Platform, GKE, GCE, CI/CD, TDD, DDD, Docker, Kubernetes**
-  - ⚡ Fun fact: I look like a hobbit.
-
-------
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <h3 align="left">Activity:</h3>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RResabala2015&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
