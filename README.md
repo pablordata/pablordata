@@ -11,6 +11,8 @@
 <a style="text-decoration: none" target="_blank" href="https://platzi.com/p/PabloRivera/" >
 <img width="120"src="https://img.shields.io/badge/Perfil_Platzi-09e989?style=for-the-badge&logo=platzi&logoColor=white">
 </a>
+<a style="text-decoration: none" target="_blank" href="https://platzi.com/p/PabloRivera/" >
+<img width="140"src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
 </div>
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
