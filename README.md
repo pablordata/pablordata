@@ -1,12 +1,15 @@
 <div align="right">
 <a style="text-decoration: none" target="_blank"href="https://github.com/pablordata">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=pablordata.pablordata&left_color=gray&right_color=blue&left_text=Coders%20visitors">
+<!--<img src="https://visitor-badge.laobi.icu/badge?page_id=pablordata.pablordata&left_color=gray&right_color=black&left_text=Coders%20visitors">-->
 </a>
 <a style="text-decoration: none" target="_blank" href="https://twitter.com/codediazsergio" >
-<img width="60"src="https://img.shields.io/twitter/follow/chipro?label=Follow&style=social">
+<img width="62"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/sergio-diaz-fernandez/" >
-<img width="70"src="https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white">
+<img width="75"src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/sergio-diaz-fernandez/" >
+<img width="100"src="https://img.shields.io/badge/Perfil_Platzi-09e989?style=for-the-badge&logo=platzi&logoColor=white">
 </a>
 </div>
 
