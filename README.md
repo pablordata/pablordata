@@ -25,7 +25,8 @@ Desde 2021, he trabajado en la industria tecnológica, destacando en roles de Bu
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">🤖 Inteligencias Artificiales:</td>
-        <td>   <a style="text-decoration: none" target="_blank" href="https://chatgpt.com/" >
+        <td>   
+               <a style="text-decoration: none" target="_blank" href="https://chatgpt.com/" >
                <img height="25" src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
                </a> 
                <a style="text-decoration: none" target="_blank" href="https://github.com/features/copilot" >
@@ -37,7 +38,19 @@ Desde 2021, he trabajado en la industria tecnológica, destacando en roles de Bu
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">💻 Lenguaje de Programación:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vue,vuetify,react,mui,bootstrap,html,css,sass,js,ts,figma"/></td>
+        <td>
+               <a style="text-decoration: none" target="_blank" href="https://chatgpt.com/" >
+               <img height="25" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+               </a> 
+               <a style="text-decoration: none" target="_blank" href="https://github.com/features/copilot" >
+               <img height="25" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white&style=for-the-badge">
+               </a> 
+               <a style="text-decoration: none" target="_blank" href="https://gemini.google.com/app?hl=es" >
+               <img height="25" src="https://img.shields.io/badge/.Visual Basic for Applications-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff)">
+               </a>
+               <a style="text-decoration: none" target="_blank" href="https://gemini.google.com/app?hl=es" >
+               <img height="25" src="https://img.shields.io/badge/.Visual Basic for Applications-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff)">
+               </a>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">💾 Datos:</td>
