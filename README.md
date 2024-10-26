@@ -2,7 +2,7 @@
 <a style="text-decoration: none" target="_blank"href="https://github.com/pablordata">
 <img width="125"src="https://komarev.com/ghpvc/?username=pablordata-pablordata&color=grey&style=for-the-badge">
 </a>
-<a style="text-decoration: none" target="_blank" href="https://mail.google.com/mail/u/0/?pli=1#inbox?compose=CllgCKCFTSvLFsSSRXXtlkcJfwqfndrBfrgdqQxTBBZlXQMqnTmzqNCJKlSCzPGDpcpswwSgllB" >
+<a style="text-decoration: none" target="_blank" href="mailto:pablor.data@gmail.com" >
 <img width="75"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/sergio-diaz-fernandez/" >
