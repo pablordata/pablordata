@@ -25,7 +25,6 @@ With over 8 years of experience as a Software Engineer, I'm on a mission to crea
   - 💬 Ask me about **Html, Css, Sass, Bootstrap, Javascript, Typescript, React,  PHP,  Lumen, Laravel,  C#, .NET, Java, Spring Boot, Scrum, Google Cloud Platform, GKE, GCE, CI/CD, TDD, DDD, Docker, Kubernetes**
   - ⚡ Fun fact: I look like a hobbit.
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/RenatoResabala" target="blank"><i align="center" class="devicon-twitter-original" alt="Renato_Resabala" height="40" width="60" ></i>
 </a>
