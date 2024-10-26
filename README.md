@@ -1,6 +1,6 @@
 <div align="right">
 <a style="text-decoration: none" target="_blank"href="https://github.com/pablordata">
-<img width="130"src="https://komarev.com/ghpvc/?username=pablordata-pablordata&color=grey&style=for-the-badge">
+<img width="120"src="https://img.shields.io/github/watchers/pablordata/pablordata?style=for-the-badge&logo=GitHub&color=grey">
 </a>
 <a style="text-decoration: none" target="_blank" href="mailto:pablor.data@gmail.com" >
 <img width="75"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
