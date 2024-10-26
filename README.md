@@ -8,7 +8,7 @@
 <a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/pablordata/" >
 <img width="95"src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/sergio-diaz-fernandez/" >
+<a style="text-decoration: none" target="_blank" href="https://platzi.com/p/PabloRivera/" >
 <img width="120"src="https://img.shields.io/badge/Perfil_Platzi-09e989?style=for-the-badge&logo=platzi&logoColor=white">
 </a>
 </div>
