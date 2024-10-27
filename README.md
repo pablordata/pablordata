@@ -48,17 +48,74 @@ Desde 2021, he trabajado en la industria tecnológica, destacando en roles de Bu
                <a style="text-decoration: none" target="_blank" href="https://gemini.google.com/app?hl=es" >
                <img height="25" src="https://img.shields.io/badge/.Visual Basic for Applications-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff)">
                </a>
-               <a style="text-decoration: none" target="_blank" href="https://gemini.google.com/app?hl=es" >
-               <img height="25" src="https://img.shields.io/badge/.Visual Basic for Applications-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff)">
-               </a>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">💾 Datos:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,elasticsearch"/></td>
+        <td>
+               <a style="text-decoration: none" target="_blank" href="https://chatgpt.com/" >
+               <img height="25" src="https://custom-icon-badges.herokuapp.com/badge/Microsoft_SQL_Server-CC2927?logo=icons8-servidor-microsoft-sql-144&logoColor=white&style=for-the-badge">       
+               </a> 
+               <a style="text-decoration: none" target="_blank" href="https://github.com/features/copilot" >
+               <img height="25" src="https://custom-icon-badges.herokuapp.com/badge/-POWER BI-F2C811.svg?logo=powerbi_logo_icon_248795&logoColor=white&style=for-the-badge">
+               </a> 
+               <a style="text-decoration: none" target="_blank" href="https://gemini.google.com/app?hl=es" >
+               <img height="25" src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white&style=for-the-badge">
+               </a>
+               <a style="text-decoration: none" target="_blank" href="https://gemini.google.com/app?hl=es" >
+               <img height="25" src="https://img.shields.io/badge/Oracle-FF0000?logo=oracle&logoColor=fff&style=for-the-badge">
+               </a>
+               <a style="text-decoration: none" target="_blank" href="https://gemini.google.com/app?hl=es" >
+               <img height="25" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
+               </a>
+               <a style="text-decoration: none" target="_blank" href="https://gemini.google.com/app?hl=es" >
+               <img height="25" src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white">
+               </a>
+               <a style="text-decoration: none" target="_blank" href="https://gemini.google.com/app?hl=es" >
+               <img height="25" src="https://img.shields.io/badge/Microsoft_Power_Qry-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+               </a>
+               <a style="text-decoration: none" target="_blank" href="https://gemini.google.com/app?hl=es" >
+               <img height="25" src="https://custom-icon-badges.herokuapp.com/badge/SSIS_SQL_Server-CC2927?logo=icons8-servidor-microsoft-sql-144&logoColor=white&style=for-the-badge">  
+               </a>
+               <a style="text-decoration: none" target="_blank" href="https://gemini.google.com/app?hl=es" >
+               <img height="25" src="https://img.shields.io/badge/R-6b78a7?style=for-the-badge&logo=microsoft-excel&logoColor=white"><img height="25" src="https://img.shields.io/badge/D-15ca53?style=for-the-badge&logo=microsoft-excel&logoColor=white"><img height="25" src="https://img.shields.io/badge/W-f8970d?style=for-the-badge&logo=microsoft-       excel&logoColor=white"><img height="25" src="https://img.shields.io/badge/M-2d0e51?style=for-the-badge&logo=microsoft-excel&logoColor=white"><img height="25" src="https://img.shields.io/badge/POWER CENTER-FFFFFF?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+               </a>
+               </a>
+               <a style="text-decoration: none" target="_blank" href="https://gemini.google.com/app?hl=es" >
+               <img height="25" src="https://custom-icon-badges.herokuapp.com/badge/microsoft access-A80030.svg?logo=database&logoColor=white&style=for-the-badge">
+               </a>
+               <a style="text-decoration: none" target="_blank" href="https://gemini.google.com/app?hl=es" >
+               <img height="25" src="https://img.shields.io/badge/redash-708c99?style=for-the-badge&logo=redash">
+               </a>
+               <a style="text-decoration: none" target="_blank" href="https://gemini.google.com/app?hl=es" >
+               <img height="25" src="https://img.shields.io/badge/CleverTap-E60000?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+               </a>
+               </a>
+               <a style="text-decoration: none" target="_blank" href="https://gemini.google.com/app?hl=es" >
+               <img height="25" src="https://img.shields.io/badge/IBM%20AS%20400-7fff4c?style=for-the-badge&logo=powerbi_logo_icon_248795">
+               </a>
+               </a>
+               <a style="text-decoration: none" target="_blank" href="https://gemini.google.com/app?hl=es" >
+               <img height="25" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+               </a>
+        </td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">☁️ Gestión de proyectos:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,terraform,jenkins,githubactions,gitlarun"/></td>
+        <td>
+               <a style="text-decoration: none" target="_blank" href="https://chatgpt.com/" >
+               <img height="25" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">       
+               </a> 
+               </a> 
+               <a style="text-decoration: none" target="_blank" href="https://github.com/features/copilot" >
+               <img height="25" src="https://custom-icon-badges.herokuapp.com/badge/-Microsoft TEAMS-6264A7.svg?logo=icons8-equipos-microsoft-2019-250&logoColor=white&style=for-the-badge">
+               </a>
+               <a style="text-decoration: none" target="_blank" href="https://github.com/features/copilot" >
+               <img height="25" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+               </a>
+               <a style="text-decoration: none" target="_blank" href="https://github.com/features/copilot" >
+               <img height="25" src="https://custom-icon-badges.herokuapp.com/badge/confluence-0052CC?logo=icons8-confluencia-atlasiana-250&logoColor=white&style=for-the-badge">       
+               </a>
+        </td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">⚡ Herramientas:</td>
