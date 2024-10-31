@@ -105,7 +105,6 @@ Desde 2021, he trabajado en la industria tecnológica, destacando en roles de Bu
                <a style="text-decoration: none" target="_blank" href="https://chatgpt.com/" >
                <img height="25" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">       
                </a> 
-               </a> 
                <a style="text-decoration: none" target="_blank" href="https://github.com/features/copilot" >
                <img height="25" src="https://custom-icon-badges.herokuapp.com/badge/-Microsoft TEAMS-6264A7.svg?logo=icons8-equipos-microsoft-2019-250&logoColor=white&style=for-the-badge">
                </a>
@@ -124,11 +123,30 @@ Desde 2021, he trabajado en la industria tecnológica, destacando en roles de Bu
                <a style="text-decoration: none" target="_blank" href="https://github.com/features/copilot" >
                <img height="25" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white">       
                </a>
+               <a style="text-decoration: none" target="_blank" href="https://github.com/features/copilot" >
+               <img height="25" src="https://custom-icon-badges.herokuapp.com/badge/GOOGLE CALENDAR-FFFFFF.svg?logo=icons8-calendario-de-google-240&logoColor=white&style=for-the-badge">
+               </a> 
         </td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">⚡ Herramientas:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=selenium,jest,pytest,phpunit"/></td>
+        <td>
+               <a style="text-decoration: none" target="_blank" href="https://github.com/features/copilot" >
+               <img height="25" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white&style=for-the-badge">
+               </a> 
+               <a style="text-decoration: none" target="_blank" href="https://github.com/features/copilot" >
+               <img height="25" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white&style=for-the-badge">
+               </a> 
+               <a style="text-decoration: none" target="_blank" href="https://github.com/features/copilot" >
+               <img height="25" src="https://img.shields.io/badge/dbeaver-8b7463?style=for-the-badge&logo=dbeaver&logoColor=white">
+               </a> 
+               <a style="text-decoration: none" target="_blank" href="https://github.com/features/copilot" >
+               <img height="25" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white">
+               </a> 
+               <a style="text-decoration: none" target="_blank" href="https://github.com/features/copilot" >
+               <img height="25" src="https://custom-icon-badges.herokuapp.com/badge/SQL-WHITE.svg??logo=96556icons8-noción-240&logoColor=white&style=for-the-badge">
+               </a> 
+        </td>
     </tr>
 </table>
 <h2 align="left">Activity:</h2>
