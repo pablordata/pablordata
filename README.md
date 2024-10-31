@@ -115,6 +115,12 @@ Desde 2021, he trabajado en la industria tecnológica, destacando en roles de Bu
                <a style="text-decoration: none" target="_blank" href="https://github.com/features/copilot" >
                <img height="25" src="https://custom-icon-badges.herokuapp.com/badge/confluence-0052CC?logo=icons8-confluencia-atlasiana-250&logoColor=white&style=for-the-badge">       
                </a>
+               <a style="text-decoration: none" target="_blank" href="https://github.com/features/copilot" >
+               <img height="25" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">       
+               </a>
+               <a style="text-decoration: none" target="_blank" href="https://github.com/features/copilot" >
+               <img height="25" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">       
+               </a>
         </td>
     </tr>
     <tr>
