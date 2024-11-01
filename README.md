@@ -147,13 +147,16 @@ Desde 2021, he trabajado en la industria tecnológica, destacando en roles de Bu
                <img height="25" src="https://custom-icon-badges.herokuapp.com/badge/NOTION-FFFFFF.svg?logo=96556icons8-nocion-240&logoColor=white&style=for-the-badge">
                </a> 
                <a style="text-decoration: none" target="_blank" href="https://github.com/features/copilot" >
+               <img height="25" src="https://custom-icon-badges.herokuapp.com/badge/OFFICE 365-7a82e7.svg?logo=icons8-microsoft-365-96&logoColor=white&style=for-the-badge">
+               </a>
+               <a style="text-decoration: none" target="_blank" href="https://github.com/features/copilot" >
                <img height="25" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
                </a> 
                <a style="text-decoration: none" target="_blank" href="https://github.com/features/copilot" >
-               <img height="25" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
+               <img height="25" src="https://custom-icon-badges.herokuapp.com/badge/excalidraw-6965db.svg?logo=icons8-pluma-644&logoColor=white&style=for-the-badge">
                </a>
                <a style="text-decoration: none" target="_blank" href="https://github.com/features/copilot" >
-               <img height="25" src="https://custom-icon-badges.herokuapp.com/badge/OFFICE 365-7a82e7.svg?logo=icons8-microsoft-365-96&logoColor=white&style=for-the-badge">
+               <img height="25" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
                </a>
         </td>
     </tr>
