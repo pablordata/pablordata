@@ -21,7 +21,7 @@
 Desde 2021, he trabajado en la industria tecnológica, destacando en roles de Business Intelligence y Developer SQL en algunas de las startups más importantes de Colombia 🇨🇴. Soy una persona analítica, autodidacta y siempre en búsqueda de nuevos retos 🔍💪, con el compromiso de liderar proyectos que verdaderamente marquen la diferencia y generen impacto 💼🌍.
 
        
-<h2 align="left">🛠️ | Tecnologías Utilizadas:</h2>
+<h2 align="left">🛠️ | Tecnologías Utilizadas</h2>
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">🤖 Inteligencias Artificiales:</td>
@@ -91,7 +91,7 @@ Desde 2021, he trabajado en la industria tecnológica, destacando en roles de Bu
                </a>
                </a>
                <a style="text-decoration: none" target="_blank" href="https://gemini.google.com/app?hl=es" >
-               <img height="25" src="https://img.shields.io/badge/IBM%20AS%20400-7fff4c?style=for-the-badge&logo=powerbi_logo_icon_248795">
+               <img height="25" src="https://custom-icon-badges.herokuapp.com/badge/IBM AS400-7fff4c.svg?logo=ibm_logo_icon_181303&logoColor=white&style=for-the-badge">
                </a>
                </a>
                <a style="text-decoration: none" target="_blank" href="https://gemini.google.com/app?hl=es" >
@@ -100,7 +100,7 @@ Desde 2021, he trabajado en la industria tecnológica, destacando en roles de Bu
         </td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">☁️ Gestión de proyectos:</td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">💻 Gestión de proyectos:</td>
         <td>
                <a style="text-decoration: none" target="_blank" href="https://chatgpt.com/" >
                <img height="25" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">       
@@ -159,8 +159,50 @@ Desde 2021, he trabajado en la industria tecnológica, destacando en roles de Bu
                <img height="25" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
                </a>
         </td>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">☁️ Cloud:</td>
+        <td>
+               <a style="text-decoration: none" target="_blank" href="https://github.com/features/copilot" >
+               <img height="25" src="https://img.shields.io/badge/AWS Amazon Web Services-%23FF9900.svg?logo=amazon-web-services&logoColor=white&style=for-the-badge">
+               </a> 
+        </td>   
     </tr>
 </table>
+<h2 align="left">📚 | Educación / Educación Complementaria </h2>
+<div align="center">
+  <table style="margin-left: auto; margin-right: auto;">
+    <tr>
+      <td align="center">
+       <strong>PLATZI</strong><br>
+       <img src="https://yt3.googleusercontent.com/rwU607PYF9jK9QL2I85SdfCLVZJGGsxWukuF_LxD0PepnqEIrFVg3W85FOVPDmWdMN1SxyJ7Xi8=s900-c-k-c0x00ffffff-no-rj" width="90" alt="UPS.png"/><br>
+       <img src="https://flagcdn.com/us.svg" height="20" alt="Ec.png"/><br>
+       <strong>Data Engineer</strong>
+       <br>Enero 2024 – Presente<br>
+      </td>
+      <td align="center">
+       <strong>F. U. COMPENSAR</strong><br>
+       <img src="https://yt3.googleusercontent.com/IZOwJxoFD8j8mftHLyuyaB2XNJTdJeMIYYsZqQ_rwluAKTMOZPJ8r_q4DlMjKHpXIh_-RnG8Sw=s900-c-k-c0x00ffffff-no-rj" width="90" alt="UPS.png"/><br>
+       <img src="https://flagcdn.com/co.svg" height="20" alt="Ec.png"/><br>
+       <strong>Ingeniería de software </strong>
+       <br>Junio 2023 – Presente<br>
+      </td>
+      </td>
+      <td align="center">
+       <strong>UDEMY</strong><br>
+       <img src="https://pbs.twimg.com/profile_images/1415324297304977411/p9kTpGac_400x400.png" width="90" alt="UPS.png"/><br>
+       <img src="https://flagcdn.com/us.svg" height="20" alt="Ec.png"/><br>
+       <strong>Habilidades Tecnológicas</strong>
+       <br>Enero 2021 – Presente<br>
+      </td>
+      <td align="center">
+       <strong>F. U. KONRAD LORENZ</strong><br>
+       <img src="https://universidadesyprofesiones.com/images/universidades/logo/fundacion-universitaria-konrad-lorenz.jpg" width="90" alt="UPS.png"/><br>
+       <img src="https://flagcdn.com/co.svg" height="20" alt="Ec.png"/><br>
+       <strong>Ingeniería de Sistemas</strong>
+       <br>Enero 2022 -  Diciembre 2022<br>
+      </td>
+  </table>
+</div>
 <h2 align="left">Activity:</h2>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RResabala2015&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
