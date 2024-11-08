@@ -246,7 +246,7 @@ Desde 2021, he trabajado en la industria tecnológica, destacando en roles de Bu
       <h3 align="center"><strong>Último Proyecto</strong></h3>
       <p align="center">
         <a href="https://github.com/pablordata/pablordata">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=pablordata&repo=cryptos&theme=codeSTACKr&hide_border=true" alt="pablordata"/>
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=pablordata&repo=test_1&theme=codeSTACKr&hide_border=true" alt="pablordata"/>
         </a>
       </p>
     </td>
