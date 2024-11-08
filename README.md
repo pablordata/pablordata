@@ -245,7 +245,7 @@ Desde 2021, he trabajado en la industria tecnológica, destacando en roles de Bu
     <td width="50%">
       <h3 align="center"><strong>Último Proyecto</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689">
+        <a href="https://github.com/pablordata">
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=pablordata&repo=cryptos&theme=codeSTACKr&hide_border=true" alt="pablordata"/>
         </a>
       </p>
