@@ -217,7 +217,7 @@ Desde 2021, he trabajado en la industria tecnológica, destacando en roles de Bu
     <td width="50%">
       <h3 align="center"><strong>Estadísticas deL GitHub</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689">
+        <a href="https://github.com/pablordata">
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=pablordata&count_private=true&show_icons=true&theme=codeSTACKr&hide_border=true" alt="pablordata" />
         </a>
       </p>
@@ -237,7 +237,7 @@ Desde 2021, he trabajado en la industria tecnológica, destacando en roles de Bu
     <td width="50%">
       <h3 align="center"><strong>Estadísticas de Racha</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689/cryptos">
+        <a href="https://github.com/pablordata">
           <img align="center" src="https://streak-stats.demolab.com?user=pablordata&theme=codeSTACKr&hide_border=true" alt="pablordata"/>
         </a>
       </p>
@@ -245,7 +245,7 @@ Desde 2021, he trabajado en la industria tecnológica, destacando en roles de Bu
     <td width="50%">
       <h3 align="center"><strong>Último Proyecto</strong></h3>
       <p align="center">
-        <a href="https://github.com/pablordata">
+        <a href="https://github.com/pablordata/pablordata">
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=pablordata&repo=cryptos&theme=codeSTACKr&hide_border=true" alt="pablordata"/>
         </a>
       </p>
