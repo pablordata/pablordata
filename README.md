@@ -257,8 +257,3 @@ Desde 2021, he trabajado en la industria tecnológica, destacando en roles de Bu
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=pablordata&bg_color=09131b&color=FFFFFF&line=ff652f&point=ffe400&area=true&hide_border=true&area_color=ff652f" border-radius="15">
 </div>
-
-
-------
-[RResabala2015](https://github.com/RResabala2015)
-26/07/2024
