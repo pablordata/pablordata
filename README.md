@@ -1,6 +1,6 @@
 <div align="right">
 <a style="text-decoration: none" target="_blank"href="https://github.com/pablordata">
-<img width="200"src="https://img.shields.io/badge/-VISITAS     DEL     PERFIL-gray?style=for-the-badge&logo=GitHub&labelColor=gray"><img width="55"src="https://komarev.com/ghpvc/?username=pablordata&label=&color=504265&style=for-the-badge&logo=star" alt="pablordata" style="padding-right:20px;">
+<img width="200"src="https://img.shields.io/badge/-VISITAS     DEL     PERFIL-gray?style=for-the-badge&logo=GitHub&labelColor=gray"><img width="56"src="https://komarev.com/ghpvc/?username=pablordata&label=&color=504265&style=for-the-badge&logo=star" alt="pablordata" style="padding-right:20px;">
 </a>
 <a style="text-decoration: none" target="_blank" href="mailto:pablor.data@gmail.com" >
 <img width="195"src="https://img.shields.io/badge/pablor.data@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
@@ -207,19 +207,18 @@ Desde 2021, he trabajado en la industria tecnológica, destacando en roles de Bu
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center"><strong>Lenguajes más Utilizados</strong></h3>
       <p align="center">
         <a href="https://github.com/pablordata">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=pablordata&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="RResabala2015"/>
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kiran1689&count_private=true&show_icons=true&theme=codeSTACKr&hide_border=true" alt="GitHub Stats" />  
+          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=pablordata&show_icons=true&locale=en&layout=compact&theme=codeSTACKr&hide_border=true" alt="pablordata"/>
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center"><strong>Estadísticas deL GitHub</strong></h3>
       <p align="center">
         <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kiran1689&count_private=true&show_icons=true&theme=codeSTACKr&hide_border=true" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=pablordata&count_private=true&show_icons=true&theme=codeSTACKr&hide_border=true" alt="pablordata" />
         </a>
       </p>
     </td>
@@ -236,18 +235,18 @@ Desde 2021, he trabajado en la industria tecnológica, destacando en roles de Bu
   </tr>
 <tr>
     <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <h3 align="center"><strong>Estadísticas de Racha</strong></h3>
       <p align="center">
         <a href="https://github.com/Kiran1689/cryptos">
-          <img align="center" src="https://streak-stats.demolab.com?user=Kiran1689&theme=codeSTACKr&hide_border=true" alt="Streak Stats"/>
+          <img align="center" src="https://streak-stats.demolab.com?user=pablordata&theme=codeSTACKr&hide_border=true" alt="pablordata"/>
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <h3 align="center"><strong>Último Proyecto</strong></h3>
       <p align="center">
         <a href="https://github.com/Kiran1689">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Kiran1689&repo=cryptos&theme=codeSTACKr&show_owner=true" alt="Cryptos Project" />
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=pablordata&repo=cryptos&theme=codeSTACKr&hide_border=true" alt="pablordata"/>
         </a>
       </p>
     </td>
