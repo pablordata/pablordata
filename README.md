@@ -1,6 +1,6 @@
 <div align="right">
 <a style="text-decoration: none" target="_blank"href="https://github.com/pablordata">
-<img width="200"src="https://img.shields.io/badge/-VISITAS     DEL     PERFIL-gray?style=for-the-badge&logo=GitHub&labelColor=gray"><img width="56"src="https://komarev.com/ghpvc/?username=pablordata&label=&color=504265&style=for-the-badge&logo=star" alt="pablordata" style="padding-right:20px;">
+<img width="200"src="https://img.shields.io/badge/-VISITAS     DEL     PERFIL-gray?style=for-the-badge&logo=GitHub&labelColor=gray"><img width="56"src="https://komarev.com/ghpvc/?username=pablordata&label=&color=ff652f&style=for-the-badge&logo=star" alt="pablordata" style="padding-right:20px;">
 </a>
 <a style="text-decoration: none" target="_blank" href="mailto:pablor.data@gmail.com" >
 <img width="195"src="https://img.shields.io/badge/pablor.data@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
@@ -255,5 +255,5 @@ Desde 2021, he trabajado en la industria tecnológica, destacando en roles de Bu
 <br />
 <h2 align="left">📈 | Estadísticas de GitHub </h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=pablordata&bg_color=09131b&color=FFFFFF&line=ff652f&point=ffe400&area=true&hide_border=true&area_color=ff652f" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=pablordata&bg_color=09131b&color=FFFFFF&line=ff652f&point=ffe400&area=true&hide_border=true&area_color=ff652f&grid=false" border-radius="15">
 </div>
