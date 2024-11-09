@@ -255,5 +255,5 @@ Desde 2021, he trabajado en la industria tecnológica, destacando en roles de Bu
 <br />
 <h2 align="left">📈 | Estadísticas de GitHub </h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=pablordata&bg_color=09131b&color=FFFFFF&line=ff652f&point=ffe400&area=true&hide_border=true&area_color=ff652f&grid=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=pablordata&bg_color=09131b&color=FFFFFF&line=ff652f&point=ffe400&area=true&hide_border=true&area_color=ff652f&grid=true" border-radius="15">
 </div>
