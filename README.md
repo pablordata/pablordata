@@ -196,7 +196,7 @@ Desde 2021, he trabajado en la industria tecnológica, destacando en roles de Bu
       </td>
       <td align="center">
        <strong>F. U. KONRAD LORENZ</strong><br>
-       <img src="https://universidadesyprofesiones.com/images/universidades/logo/fundacion-universitaria-konrad-lorenz.jpg](https://ascofapsi.org.co/wp-content/uploads/2022/06/konrad_lorenz.png" width="90" alt="UPS.png"/><br>
+       <img src="https://yt3.googleusercontent.com/7OF6fCvYRpJT-d1Fta3FBlBZWbrxah9fYleMEXYCd7DhXQFOTYdLuOBpv7rwKoyfVXLdRE8YxQ=s160-c-k-c0x00ffffff-no-rj" width="90" alt="UPS.png"/><br>
        <img src="https://flagcdn.com/co.svg" height="20" alt="Ec.png"/><br>
        <strong>Ingeniería de Sistemas</strong>
        <br>Enero 2022 -  Diciembre 2022<br>
