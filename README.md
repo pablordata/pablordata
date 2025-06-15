@@ -26,15 +26,22 @@ Desde 2021, he trabajado en la industria tecnológica, destacando en roles de Bu
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">🤖 Inteligencias Artificiales:</td>
         <td>   
+               <a style="text-decoration: none" target="_blank" href="https://gemini.google.com/app?hl=es" >
+               <img height="25" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
+               </a>
+               <a style="text-decoration: none" target="_blank" href="https://chatgpt.com/" >
+               <img height="25" src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
+               </a> 
+               <a style="text-decoration: none" target="_blank" href="https://chatgpt.com/" >
+               <img height="25" src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff">
+               </a> 
                <a style="text-decoration: none" target="_blank" href="https://chatgpt.com/" >
                <img height="25" src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
                </a> 
                <a style="text-decoration: none" target="_blank" href="https://github.com/features/copilot" >
-               <img height="25" src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white">
+               <img height="25" src="https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff">
                </a> 
-               <a style="text-decoration: none" target="_blank" href="https://gemini.google.com/app?hl=es" >
-               <img height="25" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
-               </a>
+               
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">💻 Lenguaje de Programación:</td>
@@ -165,7 +172,7 @@ Desde 2021, he trabajado en la industria tecnológica, destacando en roles de Bu
                <a style="text-decoration: none" target="_blank" href="https://aws.amazon.com/es/what-is-aws/" >
                <img height="25" src="https://img.shields.io/badge/AWS Amazon Web Services-%23FF9900.svg?logo=amazon-web-services&logoColor=white&style=for-the-badge">
                </a> 
-               <a style="text-decoration: none" target="_blank" href="https://aws.amazon.com/es/what-is-aws/" >
+               <a style="text-decoration: none" target="_blank" href="https://cloud.google.com/?hl=es" >
                <img height="25" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white&style=for-the-badge">
                </a> 
         </td>   
