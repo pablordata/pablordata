@@ -165,6 +165,9 @@ Desde 2021, he trabajado en la industria tecnológica, destacando en roles de Bu
                <a style="text-decoration: none" target="_blank" href="https://aws.amazon.com/es/what-is-aws/" >
                <img height="25" src="https://img.shields.io/badge/AWS Amazon Web Services-%23FF9900.svg?logo=amazon-web-services&logoColor=white&style=for-the-badge">
                </a> 
+               <a style="text-decoration: none" target="_blank" href="https://aws.amazon.com/es/what-is-aws/" >
+               <img height="25" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white&style=for-the-badge">
+               </a> 
         </td>   
     </tr>
 </table>
