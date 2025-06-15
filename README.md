@@ -242,14 +242,16 @@ Desde 2021, he trabajado en la industria tecnológica, destacando en roles de Bu
         </a>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center"><strong>Último Proyecto</strong></h3>
-      <p align="center">
-        <a href="https://github.com/pablordata/pablordata">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=pablordata&repo=test_1&theme=codeSTACKr&hide_border=true" alt="pablordata"/>
-        </a>
-      </p>
-    </td>
+<td width="50%">
+  <h3 align="center"><strong>Último Proyecto</strong></h3>
+  <p align="center">
+    <a href="https://github.com/pablordata/proyecto-clima">
+      <img align="center" width="470" 
+           src="https://github-readme-stats.vercel.app/api/pin/?username=pablordata&repo=proyecto-clima&theme=codeSTACKr&hide_border=true" 
+           alt="proyecto-clima"/>
+    </a>
+  </p>
+</td>
   </tr>
 </table>
 <br />
