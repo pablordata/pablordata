@@ -1,6 +1,6 @@
 <div align="right">
 <a style="text-decoration: none" target="_blank"href="https://github.com/pablordata">
-<img width="200"src="https://img.shields.io/badge/-VISITAS     DEL     PERFIL-gray?style=for-the-badge&logo=GitHub&labelColor=gray"><img width="76"src="https://komarev.com/ghpvc/?username=pablordata&label=&color=ff652f&style=for-the-badge&logo=star" alt="pablordata" style="padding-right:20px;">
+<img width="200"src="https://img.shields.io/badge/-VISITAS     DEL     PERFIL-gray?style=for-the-badge&logo=GitHub&labelColor=gray"><img width="70"src="https://komarev.com/ghpvc/?username=pablordata&label=&color=ff652f&style=for-the-badge&logo=star" alt="pablordata" style="padding-right:20px;">
 </a>
 <a style="text-decoration: none" target="_blank" href="mailto:pablor.data@gmail.com" >
 <img width="195"src="https://img.shields.io/badge/pablor.data@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
