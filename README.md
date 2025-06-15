@@ -32,10 +32,10 @@ Desde 2021, he trabajado en la industria tecnológica, destacando en roles de Bu
                <a style="text-decoration: none" target="_blank" href="https://chatgpt.com/" >
                <img height="25" src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
                </a> 
-               <a style="text-decoration: none" target="_blank" href="https://chatgpt.com/" >
+               <a style="text-decoration: none" target="_blank" href="https://claude.ai/new" >
                <img height="25" src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff&style=for-the-badge">
                </a> 
-               <a style="text-decoration: none" target="_blank" href="https://chatgpt.com/" >
+               <a style="text-decoration: none" target="_blank" href="https://chat.deepseek.com/sign_in" >
                <img height="25" src="https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff&style=for-the-badge">
                </a> 
                <a style="text-decoration: none" target="_blank" href="https://github.com/features/copilot" >
