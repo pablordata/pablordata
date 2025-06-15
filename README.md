@@ -174,7 +174,7 @@ Desde 2021, he trabajado en la industria tecnológica, destacando en roles de Bu
     <tr>
       <td align="center">
        <strong>PLATZI</strong><br>
-       <img src="https://yt3.googleusercontent.com/rwU607PYF9jK9QL2I85SdfCLVZJGGsxWukuF_LxD0PepnqEIrFVg3W85FOVPDmWdMN1SxyJ7Xi8=s900-c-k-c0x00ffffff-no-rj" width="90" alt="UPS.png"/><br>
+       <img src="https://yt3.googleusercontent.com/jSVrx7B9DIXfx7-Mh16nzdqXcBFoa-FV3fgItxePwv17Dst-U-JuC3_TR6rLq0quRjJPpHy5RQ=s900-c-k-c0x00ffffff-no-rj" width="90" alt="UPS.png"/><br>
        <img src="https://flagcdn.com/us.svg" height="20" alt="Ec.png"/><br>
        <strong>Data Engineer</strong>
        <br>Enero 2024 – Presente<br>
