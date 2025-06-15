@@ -41,7 +41,6 @@ Desde 2021, he trabajado en la industria tecnológica, destacando en roles de Bu
                <a style="text-decoration: none" target="_blank" href="https://github.com/features/copilot" >
                <img height="25" src="https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff">
                </a> 
-               
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">💻 Lenguaje de Programación:</td>
