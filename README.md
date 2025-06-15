@@ -36,10 +36,10 @@ Desde 2021, he trabajado en la industria tecnológica, destacando en roles de Bu
                <img height="25" src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff&style=for-the-badge">
                </a> 
                <a style="text-decoration: none" target="_blank" href="https://chatgpt.com/" >
-               <img height="25" src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white&style=for-the-badge">
+               <img height="25" src="https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff&style=for-the-badge">
                </a> 
                <a style="text-decoration: none" target="_blank" href="https://github.com/features/copilot" >
-               <img height="25" src="https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff">
+               <img height="25" src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff&style=for-the-badge">
                </a> 
     </tr>
     <tr>
