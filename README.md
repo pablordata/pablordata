@@ -181,7 +181,7 @@ Desde 2021, he trabajado en la industria tecnológica, destacando en roles de Bu
       </td>
       <td align="center">
        <strong>F. U. COMPENSAR</strong><br>
-       <img src="https://yt3.googleusercontent.com/IZOwJxoFD8j8mftHLyuyaB2XNJTdJeMIYYsZqQ_rwluAKTMOZPJ8r_q4DlMjKHpXIh_-RnG8Sw=s900-c-k-c0x00ffffff-no-rj" width="90" alt="UPS.png"/><br>
+       <img src="[https://yt3.googleusercontent.com/IZOwJxoFD8j8mftHLyuyaB2XNJTdJeMIYYsZqQ_rwluAKTMOZPJ8r_q4DlMjKHpXIh_-RnG8Sw=s900-c-k-c0x00ffffff-no-rj](https://yt3.googleusercontent.com/SzuYcWEQsWoXwMW8HGO397jY-VLx5VJ3G2fKtr0un7SwF8TanqwTL5EZG_FGkpGpyfH_PihiGg=s900-c-k-c0x00ffffff-no-rj)" width="90" alt="UPS.png"/><br>
        <img src="https://flagcdn.com/co.svg" height="20" alt="Ec.png"/><br>
        <strong>Ingeniería de software </strong>
        <br>Junio 2023 – Presente<br>
