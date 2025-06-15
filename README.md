@@ -6,7 +6,7 @@
 <img width="195"src="https://img.shields.io/badge/pablor.data@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/pablordata/" >
-<img width="90"src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+<img width="70"src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a style="text-decoration: none" target="_blank" href="https://platzi.com/p/PabloRivera/" >
 <img width="120"src="https://img.shields.io/badge/Perfil_Platzi-09e989?style=for-the-badge&logo=platzi&logoColor=white">
