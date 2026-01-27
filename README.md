@@ -16,7 +16,7 @@
 </div>
 <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hola+Mundo!+👋;+Soy+Pablo+Rivera!;" />
 <h2>👨🏻‍💻 | Acerca de mí</h2>   
-<br>Ingeniero de  Software  con más de 3 años de experiencia en el diseño y desarrollo de soluciones tecnológicas que buscan generar un impacto positivo en la vida de las personas 💡✨. Manejo lenguajes como SQL y Python, con capacidad para abordar tanto la programación de bajo como de alto nivel 🖥️📈. Soy una apasionada por la ingeniería de datos y la computación en la nube, particularmente en entornos AWS ☁️.
+<br>Ingeniero de Datos con más de 4 años de experiencia en ingesta, procesamiento y análisis de datos a gran escala. Especialista en SQL avanzado, Python (Pandas) y procesos ETL, con foco en calidad, integridad y optimización de consultas. Experiencia en arquitectura de bases de datos, validación y transformación de información, apoyando la toma de decisiones con modelos analíticos. Manejo de cloud en AWS y GCP con mentalidad de mejora continua e innovación.
 </p>
 Desde 2021, he trabajado en la industria tecnológica, destacando en roles de Business Intelligence y Developer SQL en algunas de las startups más importantes de Colombia 🇨🇴. Soy una persona analítica, autodidacta y siempre en búsqueda de nuevos retos 🔍💪, con el compromiso de liderar proyectos que verdaderamente marquen la diferencia y generen impacto 💼🌍.
 
