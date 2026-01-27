@@ -185,7 +185,7 @@ Desde 2021, he trabajado en la industria tecnológica, destacando en roles de Bu
        <strong>DATACAMP</strong><br>
        <img src="https://yt3.googleusercontent.com/ytc/AIdro_m6psai1Pd5oG3nGbw_hVfG-qmJ8R1ntco83MTXDf5cdoo=s900-c-k-c0x00ffffff-no-rj" width="90" alt="UPS.png"/><br>
        <img src="https://flagcdn.com/us.svg" height="20" alt="Ec.png"/><br>
-       <strong>Cloud Data Engineer</strong>
+       <strong>Data Engineer</strong>
        <br>Diciembre 2025 – Presente<br>
       </td>
        <td align="center">
@@ -214,7 +214,7 @@ Desde 2021, he trabajado en la industria tecnológica, destacando en roles de Bu
        <strong>F. U. KONRAD LORENZ</strong><br>
        <img src="https://yt3.googleusercontent.com/7OF6fCvYRpJT-d1Fta3FBlBZWbrxah9fYleMEXYCd7DhXQFOTYdLuOBpv7rwKoyfVXLdRE8YxQ=s160-c-k-c0x00ffffff-no-rj" width="90" alt="UPS.png"/><br>
        <img src="https://flagcdn.com/co.svg" height="20" alt="Ec.png"/><br>
-       <strong>Ingeniería de Sistemas</strong>
+       <strong>Systems Engineering</strong>
        <br>Enero 2022 -  Diciembre 2022<br>
       </td>
   </table>
