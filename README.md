@@ -220,6 +220,7 @@ Desde 2021, he trabajado en la industria tecnológica, destacando en roles de Bu
   </table>
 </div>
 <h2 align="left">📊 | Estadísticas de GitHub </h2>
+<div align="center">
 <table width="100%">
   <tr>
     <td width="50%">
