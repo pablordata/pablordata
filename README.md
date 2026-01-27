@@ -182,11 +182,11 @@ Desde 2021, he trabajado en la industria tecnológica, destacando en roles de Bu
   <table style="margin-left: auto; margin-right: auto;">
     <tr>
       <td align="center">
-       <strong>PLATZI</strong><br>
-       <img src="https://yt3.googleusercontent.com/jSVrx7B9DIXfx7-Mh16nzdqXcBFoa-FV3fgItxePwv17Dst-U-JuC3_TR6rLq0quRjJPpHy5RQ=s900-c-k-c0x00ffffff-no-rj" width="90" alt="UPS.png"/><br>
+       <strong>DATACAMP</strong><br>
+       <img src="https://yt3.googleusercontent.com/ytc/AIdro_m6psai1Pd5oG3nGbw_hVfG-qmJ8R1ntco83MTXDf5cdoo=s900-c-k-c0x00ffffff-no-rj" width="90" alt="UPS.png"/><br>
        <img src="https://flagcdn.com/us.svg" height="20" alt="Ec.png"/><br>
        <strong>Data Engineer</strong>
-       <br>Enero 2024 – Presente<br>
+       <br>Diciembre 2025 – Presente<br>
       </td>
        <td align="center">
        <strong>PLATZI</strong><br>
